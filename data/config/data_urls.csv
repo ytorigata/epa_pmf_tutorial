@@ -1,0 +1,10 @@
+﻿url,type,site,year,description
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FProgramInformation-InformationProgramme%2FStationsNAPS-StationsSNPA.xlsx,meta,all,2023,stations
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FData-Donnees%2F2020%2FIntegratedData-DonneesPonctuelles%2F2020_IntegratedPM2.5-PM2.5Ponctuelles.zip,integrated,all,2020,PM2.5
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FData-Donnees%2F2021%2FIntegratedData-DonneesPonctuelles%2F2021_IntegratedPM2.5-PM2.5Ponctuelles.zip,integrated,all,2021,PM2.5
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FData-Donnees%2F2022%2FIntegratedData-DonneesPonctuelles%2F2022_IntegratedPM2.5-PM2.5Ponctuelles.zip,integrated,all,2022,PM2.5
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FData-Donnees%2F2023%2FIntegratedData-DonneesPonctuelles%2F2023_IntegratedPM2.5-PM2.5Ponctuelles.zip,integrated,all,2023,PM2.5
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FData-Donnees%2F2020%2FIntegratedData-DonneesPonctuelles%2F2020_VOC-COV.zip,integrated,all,2020,VOC
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FData-Donnees%2F2021%2FIntegratedData-DonneesPonctuelles%2F2021_VOC-COV.zip,integrated,all,2021,VOC
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FData-Donnees%2F2022%2FIntegratedData-DonneesPonctuelles%2F2022_VOC-COV.zip,integrated,all,2022,VOC
+https://data-donnees.az.ec.gc.ca/api/file?path=%2Fair%2Fmonitor%2Fnational-air-pollution-surveillance-naps-program%2FData-Donnees%2F2023%2FIntegratedData-DonneesPonctuelles%2F2023_VOC-COV.zip,integrated,all,2023,VOC

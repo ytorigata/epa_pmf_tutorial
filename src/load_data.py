@@ -17,7 +17,7 @@ def load_station_data():
     station_filename = os.path.basename(unquote(raw_path))
     
     # Construct full path
-    station_file_path = RAW_DATA_DIR / station_filename
+    station_file_path = RAW_META_DIR / station_filename
 
     sheet_name = 'Stations2023'
     
